@@ -1,2 +1,2 @@
-# skillup_AI_ML
-Publishing homework of ML lecture
+# このリポジトリについて
+このリポジトリはスキルアップAI ML講座の通し課題提出用のリポジトリです。
